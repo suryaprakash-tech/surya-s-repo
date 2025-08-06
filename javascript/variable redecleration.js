@@ -1,6 +1,6 @@
 //var 
 
-var a=21;
+var a=45;
 console.log(a);
 var a=29;
 console.log(a);  //we can redeclare or reassign the values assigned in var.it does not shoe error.
