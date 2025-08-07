@@ -19,5 +19,14 @@ const s2=Symbol();
 //console.log(s2);
 console.log(s1==s2);   //therefore it shows false
 
+//reference datatype
+
+//1.array
+
+var x=["surya",18,"javascript"]
+console.log(x);
+console.log(typeof x);
+ 
+
 
 
