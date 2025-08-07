@@ -34,5 +34,9 @@ console.log(y);
 console.log(typeof y);
 
 
+//3.date and time
 
+var z=new Date();
+console.log(z);
+console.log(typeof z);
 
