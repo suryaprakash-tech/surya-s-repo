@@ -27,6 +27,12 @@ var x=["surya",18,"javascript"]
 console.log(x);
 console.log(typeof x);
  
+//2.object literals
+
+var y={'fname':'surya','age':18,'course':'js'}
+console.log(y);
+console.log(typeof y);
+
 
 
 
