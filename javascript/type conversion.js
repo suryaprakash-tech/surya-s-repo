@@ -14,3 +14,16 @@ let b='123';
 console.log(b,typeof b);
 b=Number(b);
 console.log(typeof b);
+
+//PARSE
+
+//parseInt and parseFloat
+
+let c=33.33;
+d=parseInt(c);
+e=parseFloat(c);
+console.log(d);
+console.log(e);
+
+
+
