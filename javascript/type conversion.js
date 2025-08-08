@@ -26,4 +26,14 @@ console.log(d);
 console.log(e);
 
 
+//type coersion
 
+let x=10;
+let y="25";
+console.log(x+y);
+
+
+let p=10;
+let q="25";
+r=Number(q)
+console.log(p+r);
