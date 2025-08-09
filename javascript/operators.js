@@ -40,3 +40,8 @@ console.log("x && y:", x && y);
 console.log("x || y:", x || y);
 console.log("!x    :", !x);    
 
+// Ternary Operator
+let age = 18;
+let result = (age >= 18) ? "Eligible to vote" : "Not eligible to vote";
+console.log("\nTernary Operator:");
+console.log(result)
