@@ -59,3 +59,11 @@ x /= 2;
 console.log("x /= 2 =>", x);
 
 
+// Unary Operators
+console.log("\nUnary Operators:");
+let num = 5;
+console.log("+num  :", +num);   // Unary plus
+console.log("-num  :", -num);   // Unary minus
+console.log("++num :", ++num);  // Pre-increment
+console.log("--num :", --num);  // Pre-decrement
+
