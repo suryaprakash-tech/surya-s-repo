@@ -31,3 +31,12 @@ console.log("a > b :", a > b);
 console.log("a < b :", a < b); 
 console.log("a == b:", a == b); 
 console.log("a != b:", a != b); 
+
+// Logical Operators
+let x = true;
+let y = false;
+console.log("\nLogical Operators:");
+console.log("x && y:", x && y);
+console.log("x || y:", x || y);
+console.log("!x    :", !x);    
+
