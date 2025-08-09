@@ -45,3 +45,17 @@ let age = 18;
 let result = (age >= 18) ? "Eligible to vote" : "Not eligible to vote";
 console.log("\nTernary Operator:");
 console.log(result)
+
+// Assignment Operators
+let x = 5;
+console.log("\nAssignment Operators:");
+x += 3; // x = x + 3
+console.log("x += 3 =>", x);
+x -= 2;
+console.log("x -= 2 =>", x);
+x *= 4;
+console.log("x *= 4 =>", x);
+x /= 2;
+console.log("x /= 2 =>", x);
+
+
